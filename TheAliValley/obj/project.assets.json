@@ -5303,11 +5303,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\work place\\ecommerce\\TheAliVally\\TheAliValley.csproj",
+      "projectUniqueName": "E:\\work place\\ecommerce\\TheAliValley\\TheAliValley.csproj",
       "projectName": "TheAliValley",
-      "projectPath": "E:\\work place\\ecommerce\\TheAliVally\\TheAliValley.csproj",
+      "projectPath": "E:\\work place\\ecommerce\\TheAliValley\\TheAliValley.csproj",
       "packagesPath": "C:\\Users\\User_Pc\\.nuget\\packages\\",
-      "outputPath": "E:\\work place\\ecommerce\\TheAliVally\\obj\\",
+      "outputPath": "E:\\work place\\ecommerce\\TheAliValley\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User_Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

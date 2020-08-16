@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using TheAliValley.Models;
 
 namespace TheAliVally.Data
 {
@@ -12,5 +13,7 @@ namespace TheAliVally.Data
             : base(options)
         {
         }
+
+        public DbSet<ProductTypes> ProductTypes { get; set; }
     }
 }

@@ -9,6 +9,8 @@ using TheAliVally.Models;
 
 namespace TheAliVally.Controllers
 {
+
+    [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

@@ -192,9 +192,10 @@ E:\work place\ecommerce\TheAliValley\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAn
 E:\work place\ecommerce\TheAliValley\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\work place\ecommerce\TheAliValley\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\work place\ecommerce\TheAliValley\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\work place\ecommerce\TheAliValley\obj\Debug\netcoreapp3.0\TheAliValley.MvcApplicationPartsAssemblyInfo.cs
-E:\work place\ecommerce\TheAliValley\obj\Debug\netcoreapp3.0\TheAliValley.MvcApplicationPartsAssemblyInfo.cache
 E:\work place\ecommerce\TheAliValley\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
 E:\work place\ecommerce\TheAliValley\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
 E:\work place\ecommerce\TheAliValley\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
 E:\work place\ecommerce\TheAliValley\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+E:\work place\ecommerce\TheAliValley\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+E:\work place\ecommerce\TheAliValley\obj\Debug\netcoreapp3.0\TheAliValley.MvcApplicationPartsAssemblyInfo.cs
+E:\work place\ecommerce\TheAliValley\obj\Debug\netcoreapp3.0\TheAliValley.MvcApplicationPartsAssemblyInfo.cache
